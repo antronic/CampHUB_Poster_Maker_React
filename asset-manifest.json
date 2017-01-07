@@ -1,9 +1,11 @@
 {
-  "main.css": "static/css/main.4c768fd7.css",
-  "main.css.map": "static/css/main.4c768fd7.css.map",
-  "main.js": "static/js/main.a9c8688f.js",
-  "main.js.map": "static/js/main.a9c8688f.js.map",
+  "main.css": "static/css/main.e5af8222.css",
+  "main.css.map": "static/css/main.e5af8222.css.map",
+  "main.js": "static/js/main.d13772f4.js",
+  "main.js.map": "static/js/main.d13772f4.js.map",
   "static/media/camphub-poster-maker.jpg": "static/media/camphub-poster-maker.ab61f270.jpg",
+  "static/media/css/glyphicons-halflings-regular.woff": "static/media/css/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/css/glyphicons-halflings-regular.woff2": "static/media/css/glyphicons-halflings-regular.448c34a5.woff2",
   "static/media/fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
@@ -12,7 +14,5 @@
   "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
   "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
   "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static/media/new_logo_h240.png": "static/media/new_logo_h240.41c87b50.png"
 }
